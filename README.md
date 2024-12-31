@@ -1,4 +1,4 @@
-# Simple Drawing App
+# Simple Drawing App 🎨🖌️
 
 ## Description
 The Simple Drawing App is a user-friendly web application that allows users to draw, paint, and create shapes on a digital canvas. It includes tools for drawing, erasing, selecting colors, and saving the artwork as an image.
