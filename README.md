@@ -31,7 +31,8 @@ The Simple Drawing App is a user-friendly web application that allows users to d
 ---
 
 ## Screenshots
-_Add screenshots of the application interface to showcase the features._
+
+![CaptureDrawingapp](https://github.com/user-attachments/assets/d7e83d19-3def-42be-a97a-b9b0c371375f)
 
 ---
 
